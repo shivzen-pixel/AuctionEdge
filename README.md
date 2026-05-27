@@ -56,30 +56,31 @@ its assumptions are documented in `notebooks/01_synthetic_data_design.ipynb`.
 ---
 
 ## Architecture
-Kaggle (550K auction lots)  ─┐
+
+```text
+Kaggle (550K auction lots) ─┐
 FRED API (macro indicators) ─┤
 Synthetic generator         ─┘
-│
-▼
+            │
+            ▼
 DuckDB (local warehouse)
-│
-▼
+            │
+            ▼
 dbt models
 ├── staging
 ├── facts (fact_auction, fact_lifecycle)
 └── marts (mart_bid_recommendations)
-│
-▼
+            │
+            ▼
 Python modeling layer
 ├── XGBoost (point estimate)
 ├── Quantile regression (prediction intervals)
 ├── SHAP (driver attribution)
 └── A/B test designer (power, MDE, holdout)
-│
-▼
+            │
+            ▼
 Tableau dashboard (5 pages)
-
----
+```
 
 ## Dashboard
 
