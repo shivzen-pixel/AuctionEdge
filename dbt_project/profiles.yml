@@ -1,0 +1,7 @@
+auctionedge:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/warehouse/auctionedge.duckdb"
+      threads: 4

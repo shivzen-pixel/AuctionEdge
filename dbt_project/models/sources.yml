@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    description: "Raw ingested data loaded by Python scripts."
+    tables:
+      - name: raw_auction_prices
+        description: "Raw Kaggle auction vehicle records. All fields are varchar at ingest."
+      - name: raw_macro_fred
+        description: "Raw FRED macroeconomic series used as external covariates."
