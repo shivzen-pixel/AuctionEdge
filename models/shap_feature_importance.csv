@@ -1,0 +1,1075 @@
+feature,mean_abs_shap
+num__sellingprice,966.2691
+num__condition,201.76588
+num__odometer,143.9673
+num__mmr,61.979275
+num__year,3.8304973
+cat__make_Mercedes-Benz,1.0817242
+cat__model_i8,0.78458196
+cat__make_Rolls-Royce,0.77753586
+cat__model_911,0.70068216
+cat__make_Bentley,0.6306886
+cat__state_ca,0.615516
+cat__model_Corolla,0.56516427
+cat__state_tn,0.5536509
+cat__model_Range Rover,0.542451
+cat__model_G-Class,0.5282115
+cat__state_tx,0.5121574
+cat__model_S-Class,0.45958135
+cat__model_Silverado 2500HD,0.44055375
+cat__state_nj,0.43501407
+cat__model_Cruze,0.389992
+cat__model_Town and Country,0.38562185
+cat__state_fl,0.3835582
+cat__model_GL-Class,0.36994705
+cat__model_Malibu,0.35311657
+cat__model_Tacoma,0.35205734
+cat__model_MDX,0.3430302
+cat__state_mo,0.33706856
+cat__make_Acura,0.31505924
+cat__model_Journey,0.2888551
+cat__model_Sonata,0.28522298
+cat__model_5 Series,0.27960098
+cat__model_E-Class,0.27877948
+cat__model_Elantra,0.2626637
+cat__state_nc,0.26113474
+cat__model_R8,0.2562248
+cat__model_Dart,0.2406812
+cat__model_Xterra,0.23854588
+cat__model_Explorer,0.23844428
+cat__state_co,0.23491548
+cat__make_GMC,0.23460522
+cat__state_ma,0.23078837
+cat__make_Toyota,0.22433813
+cat__make_Dodge,0.21561626
+cat__model_Tundra,0.2149158
+cat__model_GT-R,0.21404938
+cat__make_Chrysler,0.21029301
+cat__make_Chevrolet,0.20991194
+cat__model_X5,0.20944488
+cat__state_pa,0.20725697
+cat__make_Audi,0.203332
+cat__state_ms,0.1961442
+cat__model_Corvette Stingray,0.19178501
+cat__model_Rogue,0.19096607
+cat__make_BMW,0.18830138
+cat__model_Quest,0.18629926
+cat__model_Durango,0.18261485
+cat__state_ga,0.17910135
+cat__make_Ferrari,0.17867592
+cat__model_Navigator,0.17809358
+cat__model_Expedition,0.17395033
+cat__model_Versa,0.17384349
+cat__model_Highlander,0.17143553
+cat__model_Touareg,0.1695428
+cat__model_Prius,0.16712588
+cat__model_Cherokee,0.16569933
+cat__model_Santa Fe,0.15824181
+cat__model_Odyssey,0.15700583
+cat__make_Jaguar,0.1560266
+cat__state_mi,0.15488836
+cat__make_Ford,0.15459469
+cat__state_il,0.15193075
+cat__model_Wrangler,0.15116386
+cat__model_Charger,0.15058184
+cat__model_Altima,0.1498729
+cat__model_Matrix,0.14869626
+cat__make_Ram,0.14624228
+cat__model_Maxima,0.1448049
+cat__state_ny,0.1411964
+cat__state_oh,0.14072366
+cat__model_Yukon,0.14067174
+cat__model_Sebring,0.14058444
+cat__state_ab,0.13403657
+cat__model_Avalon,0.12623815
+cat__model_Fusion,0.12586774
+cat__model_Mazda5,0.12507156
+cat__model_A4,0.12492539
+cat__model_Veloster,0.122804075
+cat__model_6 Series,0.12199743
+cat__model_IS 250,0.12146349
+cat__state_on,0.12082387
+cat__model_RS 7,0.12075853
+cat__model_X6,0.120219246
+cat__model_CLS-Class,0.11998237
+cat__model_LX 570,0.11551623
+cat__state_nv,0.11091393
+cat__model_SL-Class,0.10939796
+cat__make_Jeep,0.10532168
+cat__model_G6,0.10487683
+cat__model_7 Series,0.10442923
+cat__make_HUMMER,0.10400031
+cat__model_Impala,0.103924714
+cat__state_wi,0.100672424
+cat__model_Aura,0.09946472
+cat__make_Subaru,0.0983187
+cat__model_e350,0.09524219
+cat__model_Panamera,0.0933314
+cat__model_Camry,0.092338644
+cat__model_Suburban,0.09188698
+cat__model_LS 460,0.09057301
+cat__model_Cooper Countryman,0.0901814
+cat__state_sc,0.08983768
+cat__state_pr,0.08973716
+cat__model_F-150,0.08855285
+cat__model_Ghost,0.08823906
+cat__model_Armada,0.08653931
+cat__make_Land Rover,0.086281896
+cat__model_CT 200h,0.08570744
+cat__model_200,0.08526348
+cat__make_Lincoln,0.08501162
+cat__state_md,0.0844057
+cat__model_Mazda6,0.0841171
+cat__model_CC,0.08404849
+cat__model_Challenger,0.0834268
+cat__model_CR-V,0.083195254
+cat__make_Hyundai,0.08226125
+cat__model_QX70,0.08160871
+cat__make_Lexus,0.08151982
+cat__model_RDX,0.081409335
+cat__model_XJ,0.08140211
+cat__make_Infiniti,0.08106533
+cat__state_va,0.08103619
+cat__state_mn,0.07927025
+cat__model_V60,0.079247065
+cat__model_X3,0.079184875
+cat__model_M6,0.079098344
+cat__model_CTS,0.0780373
+cat__model_MKX,0.077556506
+cat__make_Saab,0.076718815
+cat__make_Porsche,0.07600844
+cat__model_Q50,0.07576947
+cat__model_RC 350,0.07563044
+cat__model_Silverado 1500,0.073750824
+cat__model_Fiesta,0.07282056
+cat__make_Nissan,0.07181281
+cat__state_hi,0.07180165
+cat__model_G Convertible,0.07075031
+cat__model_G Coupe,0.070440456
+cat__model_XC90,0.070425846
+cat__model_Yukon XL,0.06986509
+cat__model_Escape,0.06890309
+cat__model_Ram Pickup 2500,0.068715855
+cat__model_Escalade ESV,0.06849897
+cat__model_Continental GTC,0.06804601
+cat__model_California,0.067939445
+cat__model_M6 Gran Coupe,0.06760806
+cat__model_3 Series Gran Turismo,0.06722141
+cat__state_wa,0.06698638
+cat__model_DeVille,0.066776805
+cat__model_Camaro,0.06635677
+cat__make_Pontiac,0.066102244
+cat__model_6 Series Gran Coupe,0.06606508
+cat__model_Venza,0.066015355
+cat__model_M-Class,0.06561372
+cat__state_ne,0.06551451
+cat__model_Escalade,0.063144416
+cat__model_Sierra 2500HD,0.062575765
+cat__model_M5,0.062314715
+cat__model_5 Series Gran Turismo,0.06193281
+cat__make_Mitsubishi,0.061339255
+cat__model_Shelby GT500,0.0612451
+cat__model_FX,0.061221503
+cat__model_A8,0.061046597
+cat__model_G Sedan,0.060899656
+cat__model_Equus,0.06074431
+cat__model_3 Series,0.0602338
+cat__state_az,0.059991006
+cat__model_4 Series,0.05770947
+cat__model_Town Car,0.05755335
+cat__model_Boxster,0.057296086
+cat__model_X5 M,0.056256447
+cat__model_XF,0.05604419
+cat__model_Vibe,0.05592195
+cat__model_Cadenza,0.055305544
+cat__model_GLK-Class,0.055214107
+cat__model_ActiveHybrid X6,0.05461652
+cat__model_Milan,0.054434378
+cat__model_E-Series Van,0.054294776
+cat__model_Avalanche,0.05387795
+cat__model_ATS,0.053768437
+cat__model_xB,0.053659964
+cat__make_Volkswagen,0.05307618
+cat__model_Titan,0.05293022
+cat__model_Mazda3,0.051357508
+cat__model_FJ Cruiser,0.051343367
+cat__model_PT Cruiser,0.051130276
+cat__model_Cooper Clubman,0.050896
+cat__model_Mazda2,0.050692946
+cat__model_IS 350,0.050437458
+cat__model_Acadia,0.049842115
+cat__model_CLA-Class,0.049713228
+cat__make_Honda,0.0491444
+cat__model_Grand Cherokee,0.048997603
+cat__model_NV,0.04847368
+cat__model_QX80,0.04823405
+cat__model_Sierra 1500,0.047557816
+cat__model_Continental Flying Spur,0.047368277
+cat__model_Range Rover Sport,0.04618187
+cat__model_Sprinter,0.04604242
+cat__model_Montana,0.045902837
+cat__model_Dakota,0.04584808
+cat__model_M,0.045671083
+cat__model_Mazdaspeed3,0.04565864
+cat__model_Jetta,0.04453658
+cat__model_Montego,0.044148184
+cat__model_Patriot,0.044034433
+cat__model_Focus,0.043463502
+cat__model_Mustang,0.04259482
+cat__model_H3,0.042408425
+cat__model_Explorer Sport Trac,0.042386886
+cat__make_Maserati,0.042210553
+cat__model_Accord,0.0418942
+cat__model_XTS,0.04162368
+cat__model_Optima,0.041373495
+cat__model_GranTurismo,0.041336294
+cat__make_FIAT,0.04073218
+cat__make_bmw,0.040390834
+cat__model_SLS AMG GT,0.03990267
+cat__model_Torrent,0.039499387
+cat__model_ES 330,0.039049614
+cat__model_RX 350,0.0386984
+cat__model_F-250 Super Duty,0.037894808
+cat__model_Tribute,0.037715677
+cat__model_300,0.037697256
+cat__make_MINI,0.037494015
+cat__model_Corvette,0.03718527
+cat__model_Crown Victoria,0.037152823
+cat__model_A7,0.03701322
+cat__model_Continental GT,0.03687898
+cat__model_Enclave,0.036799457
+cat__model_Accord Crosstour,0.036759518
+cat__model_Range Rover Evoque,0.036549907
+cat__model_Cayenne,0.036159467
+cat__model_Envoy XL,0.035994653
+cat__model_Regal,0.035929196
+cat__model_CX-5,0.03561359
+cat__make_honda,0.035531778
+cat__model_Commander,0.035528913
+cat__make_Scion,0.03527994
+cat__model_CTS-V Coupe,0.035085388
+cat__model_K900,0.03507682
+cat__model_Tahoe,0.034335814
+cat__model_MX-5 Miata,0.032590523
+cat__model_Murano,0.032588195
+cat__model_X6 M,0.03198827
+cat__model_JX,0.031969648
+cat__model_GX 460,0.031921435
+cat__model_Sienna,0.03123497
+cat__model_QX56,0.03123016
+cat__model_Elantra Coupe,0.031143818
+cat__model_TrailBlazer,0.031124849
+cat__model_HHR,0.030352512
+cat__model_LR4,0.030297607
+cat__model_Q60 Coupe,0.030255796
+cat__model_Galant,0.029980127
+cat__model_Rapide,0.02990086
+cat__make_Kia,0.029845765
+cat__model_IS 250 C,0.029778715
+cat__make_smart,0.029606009
+cat__model_S70,0.02947891
+cat__model_TSX,0.028715268
+cat__model_RX 450h,0.02863071
+cat__model_Envoy,0.028516771
+cat__model_Compass,0.028288407
+cat__model_9-3,0.028275846
+cat__make_Lamborghini,0.028269127
+cat__state_ut,0.027980866
+cat__model_CLK-Class,0.027681444
+cat__model_Civic,0.027356349
+cat__model_Solstice,0.027234709
+cat__model_Q7,0.02722294
+cat__model_Impreza,0.027058957
+cat__model_Equinox,0.02699784
+cat__model_Tiguan,0.026946446
+cat__model_Sorento,0.026941963
+cat__state_in,0.026555976
+cat__model_Passat,0.026420122
+cat__model_Mariner,0.02628742
+cat__model_E-Series Wagon,0.02570154
+cat__model_Lancer,0.02562931
+cat__model_Sable,0.025448736
+cat__model_ION,0.025396088
+cat__model_Outlander Sport,0.025060307
+cat__model_New Beetle,0.024698116
+cat__model_Contour,0.02450727
+cat__model_ES 350,0.024054054
+cat__model_Canyon,0.023896059
+cat__model_CR-Z,0.023643145
+cat__model_Veracruz,0.023409557
+cat__model_STS,0.02317499
+cat__model_M45,0.022949485
+cat__model_Cobalt,0.022905689
+cat__model_350z,0.022538472
+cat__model_Edge,0.02243425
+cat__model_LS 400,0.022431718
+cat__model_F-350 Super Duty,0.022132581
+cat__model_3500,0.021948775
+cat__model_QX,0.02155109
+cat__model_Outback,0.021398613
+cat__model_S-Type,0.021227408
+cat__make_Mercury,0.02112083
+cat__model_Golf,0.020944366
+cat__model_S5,0.020925181
+cat__model_A6,0.020430762
+cat__model_EX35,0.020326335
+cat__model_Cooper,0.020241208
+cat__model_Avenger,0.020107253
+cat__make_Cadillac,0.019935995
+cat__model_CL,0.01975957
+cat__model_Santa Fe Sport,0.019735295
+cat__model_M3,0.019479355
+cat__model_2500,0.01941467
+cat__model_Grand Am,0.019342603
+cat__model_Taurus,0.019264678
+cat__model_QX60,0.019053208
+cat__model_Q5,0.018961547
+cat__model_Focus ST,0.018953554
+cat__model_Sonic,0.018813213
+cat__model_Promaster Cargo Van,0.018762467
+cat__model_RX 400h,0.018701077
+cat__model_Sonata Hybrid,0.018687146
+cat__model_CTS-V,0.01848549
+cat__model_MKT,0.018421305
+cat__model_XK,0.018400853
+cat__model_Ghibli,0.018321449
+cat__model_Sentra,0.018269632
+cat__model_BRZ,0.018266281
+cat__model_Ranger,0.01825526
+cat__model_GTO,0.01824119
+cat__model_CX-9,0.017835893
+cat__model_Forester,0.017832143
+cat__model_Pathfinder,0.01770781
+cat__model_Rio,0.01758783
+cat__model_Leaf,0.0173877
+cat__model_H2,0.017334858
+cat__model_CTS Coupe,0.017286258
+cat__model_Yukon Hybrid,0.017281152
+cat__model_Versa Note,0.01723589
+cat__make_Volvo,0.017041078
+cat__model_Frontier,0.016841108
+cat__model_1500,0.01674665
+cat__model_Sedona,0.016564095
+cat__model_RAV4,0.016545864
+cat__model_santa,0.016461328
+cat__model_Sierra 3500HD,0.016446142
+cat__model_Genesis Coupe,0.016306369
+cat__model_Elantra GT,0.016246142
+cat__model_allroad,0.016175939
+cat__model_Eldorado,0.016156776
+cat__model_MKC,0.015811183
+cat__state_nm,0.01568003
+cat__model_Juke,0.015555199
+cat__model_S60,0.0154728675
+cat__model_RC F,0.01536142
+cat__model_X1,0.015347994
+cat__model_SLS AMG,0.015306855
+cat__model_Prius Plug-in,0.015008665
+cat__model_expedition,0.014990699
+cat__model_Sequoia,0.014644898
+cat__model_Grand Prix,0.01457971
+cat__make_Oldsmobile,0.014455514
+cat__model_Ram Pickup 1500,0.014424701
+cat__model_Park Avenue,0.014082471
+cat__model_SRX,0.014056233
+cat__model_G37,0.013893087
+cat__make_Saturn,0.013871003
+cat__model_Element,0.013857085
+cat__make_Tesla,0.013793282
+cat__model_Aveo,0.013710276
+cat__make_hyundai,0.01368269
+cat__model_Traverse,0.013381592
+cat__model_Sonoma,0.013110226
+cat__model_C30,0.0126429815
+cat__model_Impreza WRX,0.012619889
+cat__state_ok,0.0125902165
+cat__model_RS 5,0.012573815
+cat__model_Relay,0.012569263
+cat__model_Liberty,0.012533153
+cat__model_V70,0.012428843
+cat__model_XG350,0.012380195
+cat__model_Venture,0.012319608
+cat__model_300M,0.01230083
+cat__model_Axiom,0.012114294
+cat__model_Prius v,0.012047563
+cat__model_GranTurismo Convertible,0.011962662
+cat__model_F-TYPE,0.011899141
+cat__model_EX,0.011623282
+cat__state_or,0.011527122
+cat__model_Cayman S,0.011319007
+cat__model_Avalon Hybrid,0.011147912
+cat__model_Envoy XUV,0.011092355
+cat__model_Lancer Evolution,0.010949315
+cat__model_ES 300h,0.010928565
+cat__model_MKZ,0.010824044
+cat__model_Cooper Paceman,0.010791422
+cat__model_B9 Tribeca,0.010742408
+cat__model_L-Series,0.010715415
+cat__make_Suzuki,0.010714793
+cat__model_Captiva Sport,0.010707253
+cat__model_Blazer,0.010672087
+cat__state_al,0.010542352
+cat__model_Econoline Cargo,0.010522326
+cat__model_C/V Cargo Van,0.010423507
+cat__model_LaCrosse,0.010362513
+cat__make_porsche,0.010244488
+cat__model_Integra,0.01010201
+cat__model_Cayman,0.010092937
+cat__model_Rendezvous,0.0099973725
+cat__model_GS 430,0.009941652
+cat__model_Seville,0.009927449
+cat__model_Black Diamond Avalanche,0.009924042
+cat__model_Macan,0.009899999
+cat__model_Neon,0.009867035
+cat__model_XL-7,0.00979812
+cat__model_850,0.009725972
+cat__model_ES 300,0.00971249
+cat__model_Land Cruiser,0.009578208
+cat__model_2 Series,0.009478284
+cat__model_Genesis,0.009466735
+cat__make_gmc,0.009346107
+cat__model_350Z,0.009297829
+cat__model_SS,0.009194492
+cat__model_GS 350,0.009180342
+cat__model_Escalade Hybrid,0.009058872
+cat__model_Beetle,0.009020408
+cat__model_patriot,0.009004578
+cat__model_GTI,0.00897833
+cat__model_SQ5,0.008874037
+cat__model_Fusion Hybrid,0.008717276
+cat__model_Pilot,0.008701433
+cat__model_Cavalier,0.008658596
+cat__model_Verano,0.008614198
+cat__model_Astro,0.008612376
+cat__model_RX 330,0.008565176
+cat__model_I35,0.008556195
+cat__model_Viper,0.008486499
+cat__model_Escalade EXT,0.008410656
+cat__model_Ridgeline,0.008306085
+cat__model_XC60,0.00816727
+cat__model_Eclipse Spyder,0.008153587
+cat__model_Econoline Wagon,0.008103676
+cat__model_Caliber,0.008102071
+cat__model_Alero,0.008092239
+cat__model_TL,0.007899832
+cat__model_ActiveHybrid 7,0.007895508
+cat__model_S4,0.00779035
+cat__model_Transit Connect,0.0077318465
+cat__model_MKS,0.007681705
+cat__model_taurus,0.007572082
+cat__model_Yaris,0.0075387093
+cat__model_CL-Class,0.0075079426
+cat__model_M35,0.007493779
+cat__model_S8,0.0073835803
+cat__model_Fusion Energi,0.0072205346
+cat__model_C70,0.007210222
+cat__model_XJ-Series,0.00719148
+cat__model_Z4,0.007182789
+cat__model_Ram Pickup 3500,0.007160724
+cat__model_TrailBlazer EXT,0.007112862
+cat__model_G37 Convertible,0.0070301164
+cat__model_GS 450h,0.007015504
+cat__model_Quattroporte,0.0069288947
+cat__model_Q60 Convertible,0.0068759834
+cat__model_XL7,0.006872622
+cat__model_Flying Spur,0.0068655373
+cat__model_FX45,0.0068264287
+cat__model_Touareg 2,0.0068043177
+cat__model_Spark,0.006789884
+cat__model_Crosstour,0.0067422213
+cat__model_Grand Caravan,0.0067390776
+cat__model_C-Class,0.0067097596
+cat__model_DB9,0.0067040683
+cat__model_Flex,0.006623539
+cat__model_Explorer Sport,0.0065758047
+cat__model_Elantra Touring,0.0065567666
+cat__model_B-Class Electric Drive,0.0065548504
+cat__model_Entourage,0.006515044
+cat__model_Transit Van,0.006505984
+cat__model_A3,0.0063769664
+cat__model_H3T,0.0063349833
+cat__model_allroad quattro,0.0062890965
+cat__state_la,0.0062752287
+cat__state_ns,0.0061360234
+cat__model_IS F,0.0059642484
+cat__model_Eclipse,0.005931121
+cat__model_Rodeo,0.0058076284
+cat__state_qc,0.0057857456
+cat__model_e250,0.0057734894
+cat__make_Isuzu,0.005740075
+cat__model_Spectra,0.0057169343
+cat__model_Lucerne,0.005666488
+cat__model_hhr,0.00565633
+cat__model_LeSabre,0.0056299362
+cat__model_Jetta SportWagen,0.005627328
+cat__model_F-450 Super Duty,0.005604797
+cat__model_stratus,0.005535882
+cat__model_Eos,0.005466421
+cat__make_mercedes,0.005364518
+cat__model_Prius c,0.005337243
+cat__model_i-MiEV,0.005291322
+cat__model_Camry Hybrid,0.0052371933
+cat__model_Savana Cargo,0.005233357
+cat__model_Malibu Maxx,0.005219264
+cat__model_Tracker,0.005187451
+cat__model_Terrain,0.0051195575
+cat__model_Bonneville,0.0049913577
+cat__model_S7,0.004989221
+cat__model_Magnum,0.004956106
+cat__model_Concorde,0.004935707
+cat__make_dodge,0.004909505
+cat__model_370Z,0.0048493664
+cat__model_Prowler,0.00483947
+cat__model_QX50,0.00461335
+cat__model_Riviera,0.0045923074
+cat__model_C-Max Hybrid,0.0045798193
+cat__make_Fisker,0.0045493706
+cat__make_toyota,0.0043249684
+cat__model_Intrepid,0.0043040877
+cat__model_200SX,0.0043021147
+cat__model_TTS,0.0042987806
+cat__model_XV Crosstrek,0.0042586057
+cat__model_TT,0.0042417278
+cat__model_mkt,0.0042057117
+cat__model_xD,0.0042005638
+cat__make_chrysler,0.004139083
+cat__model_Legacy,0.004133287
+cat__model_Stratus,0.0041305106
+cat__model_1 Series,0.0041129463
+cat__model_XLR,0.0040977183
+cat__model_9-5,0.004025753
+cat__model_wrangler,0.0039554858
+cat__model_range,0.003938238
+cat__model_Trooper,0.0039294935
+cat__make_Aston Martin,0.0039202366
+cat__model_Forte,0.0038917232
+cat__model_gx,0.003871706
+cat__model_Silverado 2500HD Classic,0.003744763
+cat__make_ford,0.0036906097
+cat__model_Tucson,0.0035928404
+cat__model_Mark VIII,0.0035879968
+cat__model_Grand Vitara,0.003585297
+cat__model_RSX,0.003556308
+cat__model_Golf R,0.00349731
+cat__model_SLK-Class,0.003428249
+cat__model_Astro Cargo,0.0034206107
+cat__model_LR3,0.0033679525
+cat__model_ELR,0.0033043115
+cat__model_Express Cargo,0.0032491023
+cat__model_Prelude,0.0032299608
+cat__model_G37 Coupe,0.0031702158
+cat__model_Highlander Hybrid,0.0031577738
+cat__model_GX 470,0.0031413524
+cat__model_Mazdaspeed 3,0.003131804
+cat__model_Marauder,0.003058395
+cat__model_corvette,0.0030245439
+cat__model_pacifica,0.0029570397
+cat__model_journey,0.0029158893
+cat__model_Five Hundred,0.0029109821
+cat__model_XC70,0.0028922523
+cat__model_Jetta GLI,0.002879357
+cat__model_Sierra 1500 Classic,0.0028366924
+cat__make_subaru,0.0028013554
+cat__model_Gallardo,0.0027960355
+cat__model_I30,0.002795392
+cat__model_FX50,0.00278809
+cat__model_Intrigue,0.0027668243
+cat__model_Forenza,0.0027296755
+cat__model_lx,0.0027190074
+cat__model_Nitro,0.0026900617
+cat__model_Tracer,0.002668403
+cat__model_Accord Hybrid,0.0026563753
+cat__model_626,0.002647974
+cat__model_accord,0.0026387495
+cat__model_odyssey,0.0026039944
+cat__model_Insight,0.0025989616
+cat__model_Baja,0.0025841594
+cat__model_C/K 1500 Series,0.0025161912
+cat__model_G8,0.002480933
+cat__model_Cutlass Ciera,0.0024278474
+cat__model_caravan,0.00234455
+cat__model_X4,0.00228328
+cat__model_QX4,0.0022610389
+cat__model_500e,0.0022400601
+cat__model_STS-V,0.002239887
+cat__model_EuroVan,0.002228605
+cat__model_WRX,0.002206754
+cat__model_Azera,0.002193129
+cat__model_Model S,0.002142834
+cat__model_Silverado 3500HD,0.002057359
+cat__make_mazda,0.0020398113
+cat__model_Phaeton,0.001998724
+cat__model_M4,0.0019547911
+cat__model_Prizm,0.0019292249
+cat__model_g3500,0.0019269563
+cat__model_Mazdaspeed Mazda6,0.0018935557
+cat__model_Tempo,0.0018907333
+cat__model_Mark LT,0.0018572793
+cat__model_SC 430,0.0018502118
+cat__model_Express,0.0018420357
+cat__model_750li,0.0018419351
+cat__model_Aerio,0.0018126755
+cat__model_camaro,0.0017936209
+cat__make_lexus,0.0017892644
+cat__model_RL,0.001774879
+cat__model_Accent,0.0017571596
+cat__model_X-Type,0.0017419304
+cat__model_expeditn,0.0017111461
+cat__model_Rogue Select,0.0017076164
+cat__model_Q70,0.0015873924
+cat__model_750lxi,0.0015801535
+cat__model_Tahoe Limited/Z71,0.0015539812
+cat__model_Colorado,0.0015414353
+cat__model_Tribeca,0.0015298175
+cat__model_V8 Vantage,0.0014892812
+cat__make_land rover,0.0014650974
+cat__make_jeep,0.0014584706
+cat__model_g1500,0.0012913187
+cat__make_Buick,0.0012908044
+cat__model_Sportage,0.0012785002
+cat__model_Borrego,0.0011204961
+cat__model_Beetle Convertible,0.0010614317
+cat__model_Voyager,0.0010455805
+cat__make_buick,0.0010227415
+cat__model_VUE,0.0010140227
+cat__model_Q3,0.000990166
+cat__model_G20,0.0009774391
+cat__model_Sierra 3500,0.0009683625
+cat__make_maserati,0.0009390698
+cat__model_Thunderbird,0.0009328956
+cat__model_Expedition EL,0.00093255634
+cat__model_regal,0.00091284333
+cat__model_gr,0.0009055872
+cat__model_Verona,0.00089477043
+cat__model_J30,0.0008616975
+cat__model_GS 400,0.0008532398
+cat__model_400-Class,0.0008508186
+cat__make_oldsmobile,0.00082848314
+cat__model_Aviator,0.0008205465
+cat__model_cx-7,0.0008182843
+cat__model_MR2 Spyder,0.0008141866
+cat__model_Altima Hybrid,0.000801682
+cat__model_Diamante,0.0008003418
+cat__model_Montero,0.00079734734
+cat__model_IS 350 C,0.00078977575
+cat__model_Century,0.00074497244
+cat__model_Z3,0.00073289406
+cat__model_rr,0.0007293477
+cat__model_B-Series Truck,0.0007246907
+cat__model_TT RS,0.00070282386
+cat__model_Reno,0.0006744023
+cat__make_lincoln,0.0006414095
+cat__model_quattroporte,0.00062630314
+cat__model_Karma,0.0006181133
+cat__model_Sephia,0.00060400134
+cat__model_VUE Hybrid,0.0005959814
+cat__model_Raider,0.0005889938
+cat__model_magnum,0.0005813243
+cat__model_Transit Wagon,0.00057735434
+cat__model_xA,0.00056000805
+cat__model_c240w,0.00055770524
+cat__model_eurovan,0.00055288966
+cat__model_Silhouette,0.00055208197
+cat__model_sts,0.00054496445
+cat__model_4 Series Gran Coupe,0.00054462044
+cat__model_Continental Flying Spur Speed,0.00054301956
+cat__model_CV Tradesman,0.00050830195
+cat__model_Endeavor,0.00046430057
+cat__model_Sierra 2500,0.0004497893
+cat__model_R32,0.0004396764
+cat__model_Tercel,0.0004152982
+cat__model_Crossfire,0.0003840675
+cat__model_ILX,0.0003714713
+cat__model_Silverado 3500,0.00036864428
+cat__model_pilot,0.00034854037
+cat__model_Savana,0.00034329027
+cat__model_Montero Sport,0.00031504652
+cat__model_9-7X,0.0003035826
+cat__model_sebring,0.00025999075
+cat__model_interstate,0.00025365397
+cat__make_airstream,0.00025060962
+cat__model_corolla,0.0002454901
+cat__model_vibe,0.00022629161
+cat__model_Pickup,0.00017239431
+cat__model_Yukon Denali,0.00015117896
+cat__model_F430,0.00012766705
+cat__model_RLX,8.921791e-05
+cat__model_alp,8.84973e-05
+cat__model_cobalt,0.0
+cat__make_mercedes-b,0.0
+cat__model_allure,0.0
+cat__model_silhouette,0.0
+cat__make_Daewoo,0.0
+cat__model_safari,0.0
+cat__model_colorado,0.0
+cat__model_compass,0.0
+cat__model_concorde,0.0
+cat__model_360,0.0
+cat__make_suzuki,0.0
+cat__make_Geo,0.0
+cat__model_cougar,0.0
+cat__model_crossfire,0.0
+cat__model_crown,0.0
+cat__make_landrover,0.0
+cat__model_routan,0.0
+cat__model_alero,0.0
+cat__make_volkswagen,0.0
+cat__model_cruze,0.0
+cat__make_vw,0.0
+cat__model_corsica,0.0
+cat__model_avalon,0.0
+cat__model_civic,0.0
+cat__model_borrego,0.0
+cat__model_carrera,0.0
+cat__model_s10,0.0
+cat__model_323i,0.0
+cat__model_capt,0.0
+cat__model_s55,0.0
+cat__model_beetle,0.0
+cat__model_1,0.0
+cat__make_pontiac,0.0
+cat__model_camry,0.0
+cat__model_breeze,0.0
+cat__model_sonoma,0.0
+cat__make_nissan,0.0
+cat__model_c230,0.0
+cat__model_c240s,0.0
+cat__model_century,0.0
+cat__model_charger,0.0
+cat__model_b2300,0.0
+cat__make_plymouth,0.0
+cat__model_cherokee,0.0
+cat__model_sonic,0.0
+cat__model_ciera,0.0
+cat__model_b1500,0.0
+cat__model_aveo,0.0
+cat__make_mitsubishi,0.0
+cat__make_mercury,0.0
+cat__model_savana,0.0
+cat__model_avenger,0.0
+cat__model_rx8,0.0
+cat__model_c230wz,0.0
+cat__model_rrs,0.0
+cat__model_astro,0.0
+cat__model_ranger,0.0
+cat__model_escape,0.0
+cat__model_dakota,0.0
+cat__model_tundra,0.0
+cat__model_mountaineer,0.0
+cat__model_montana,0.0
+cat__model_mdx,0.0
+cat__model_mazda6,0.0
+cat__model_mazda5,0.0
+cat__model_tt,0.0
+cat__model_tucson,0.0
+cat__model_mazda3,0.0
+cat__model_matrix,0.0
+cat__model_malibu,0.0
+cat__model_lr3,0.0
+cat__model_venture,0.0
+cat__model_lancer,0.0
+cat__model_twn&country,0.0
+cat__model_lacrosse,0.0
+cat__model_twn/cntry,0.0
+cat__model_uplander,0.0
+cat__model_jetta,0.0
+cat__model_intrigue,0.0
+cat__model_intrepid,0.0
+cat__model_uplandr,0.0
+cat__model_impala,0.0
+cat__model_mountnr,0.0
+cat__model_a4,0.0
+cat__model_tribute,0.0
+cat__model_mpv,0.0
+cat__model_ram3500,0.0
+cat__model_ram,0.0
+cat__model_rainier,0.0
+cat__model_quest,0.0
+cat__model_subrbn,0.0
+cat__model_sx4,0.0
+cat__model_srx,0.0
+cat__model_sr,0.0
+cat__model_previa,0.0
+cat__model_police,0.0
+cat__model_tC,0.0
+cat__model_pickup,0.0
+cat__model_tahoe,0.0
+cat__model_pathfinder,0.0
+cat__model_pathfind,0.0
+cat__model_passat,0.0
+cat__model_thunderbird,0.0
+cat__model_optima,0.0
+cat__model_rangerover,0.0
+cat__model_neon,0.0
+cat__model_town,0.0
+cat__model_iQ,0.0
+cat__model_328i,0.0
+cat__model_discovery,0.0
+cat__model_300ZX,0.0
+cat__model_yaris,0.0
+cat__model_350,0.0
+cat__model_excurs,0.0
+cat__model_yukon,0.0
+cat__model_escalade,0.0
+cat__model_ridgelin,0.0
+cat__model_equinox,0.0
+cat__model_envoy,0.0
+cat__model_endeavor,0.0
+cat__model_300e,0.0
+cat__model_rio,0.0
+cat__model_i-Series,0.0
+cat__model_e300dt,0.0
+cat__model_3000GT,0.0
+cat__model_rl,0.0
+cat__model_300-Class,0.0
+cat__model_e150,0.0
+cat__model_e,0.0
+cat__model_3,0.0
+cat__model_durango,0.0
+cat__model_190-Class,0.0
+cat__model_dts,0.0
+cat__model_explorer,0.0
+cat__model_f150,0.0
+cat__model_f250,0.0
+cat__model_f350,0.0
+cat__model_versa,0.0
+cat__model_sprinter,0.0
+cat__model_villager,0.0
+cat__model_grand,0.0
+cat__model_golf,0.0
+cat__model_galant,0.0
+cat__model_voyager,0.0
+cat__model_wave,0.0
+cat__model_windstar,0.0
+cat__model_g6,0.0
+cat__model_g55,0.0
+cat__model_g500,0.0
+cat__model_sportage,0.0
+cat__model_g5,0.0
+cat__model_g2500,0.0
+cat__model_freestyle,0.0
+cat__model_x-trail,0.0
+cat__model_fortwo,0.0
+cat__model_320i,0.0
+cat__model_forester,0.0
+cat__model_focus,0.0
+cat__model_sienna,0.0
+cat__model_Sprinter Cargo,0.0
+cat__model_Zephyr,0.0
+cat__model_Monterey,0.0
+cat__model_ECHO,0.0
+cat__model_Nubira,0.0
+cat__model_Navigator L,0.0
+cat__model_NV200,0.0
+cat__model_NV Passenger,0.0
+cat__model_NV Cargo,0.0
+cat__model_Mystique,0.0
+cat__model_Mustang SVT Cobra,0.0
+cat__model_Murano CrossCabriolet,0.0
+cat__model_Eighty-Eight,0.0
+cat__model_Mountaineer,0.0
+cat__model_Eighty-Eight Royale,0.0
+cat__model_Escape Hybrid,0.0
+cat__model_Monte Carlo,0.0
+cat__model_Montana SV6,0.0
+cat__model_Mirage,0.0
+cat__model_Millenia,0.0
+cat__model_Milan Hybrid,0.0
+cat__model_Metro,0.0
+cat__model_Encore,0.0
+cat__model_Mazdaspeed Protege,0.0
+cat__model_Mazdaspeed Mazda3,0.0
+cat__model_Mazdaspeed MX-5 Miata,0.0
+cat__model_Equator,0.0
+cat__model_Outlander,0.0
+cat__model_E-350,0.0
+cat__model_Outlook,0.0
+cat__model_E-250,0.0
+cat__model_Continental Supersports,0.0
+cat__model_Cooper Coupe,0.0
+cat__model_Cooper Roadster,0.0
+cat__make_ford truck,0.0
+cat__model_R-Class,0.0
+cat__model_Corsica,0.0
+cat__make_ford tk,0.0
+cat__model_Cougar,0.0
+cat__model_Coupe,0.0
+cat__model_Cube,0.0
+cat__model_Cutlass,0.0
+cat__model_Q45,0.0
+cat__model_Protege5,0.0
+cat__model_Protege,0.0
+cat__model_Cutlass Supreme,0.0
+cat__model_DTS,0.0
+cat__make_dot,0.0
+cat__model_Discovery,0.0
+cat__model_Passport,0.0
+cat__model_Discovery Series II,0.0
+cat__make_dodge tk,0.0
+cat__model_E-150,0.0
+cat__model_Pacifica,0.0
+cat__model_Mariner Hybrid,0.0
+cat__model_Malibu Hybrid,0.0
+cat__model_ZDX,0.0
+cat__model_G35,0.0
+cat__model_L300,0.0
+cat__model_Kizashi,0.0
+cat__model_Freelander,0.0
+cat__make_acura,0.0
+cat__model_Jimmy,0.0
+cat__model_Jetta Hybrid,0.0
+cat__model_Freestar,0.0
+cat__model_Freestyle,0.0
+cat__model_Impala Limited,0.0
+cat__model_G3,0.0
+cat__model_IS 300,0.0
+cat__model_HS 250h,0.0
+cat__model_Malibu Classic,0.0
+cat__model_G5,0.0
+cat__model_H2 SUT,0.0
+cat__model_GLA-Class,0.0
+cat__model_H1,0.0
+cat__model_GLI,0.0
+cat__model_Grand Marquis,0.0
+cat__model_Grand Cherokee SRT,0.0
+cat__model_GS 300,0.0
+cat__model_Golf GTI,0.0
+cat__model_GS 460,0.0
+cat__make_audi,0.0
+cat__model_LHS,0.0
+cat__model_LR2,0.0
+cat__model_LS,0.0
+cat__model_LS 430,0.0
+cat__model_Escort,0.0
+cat__model_Esteem,0.0
+cat__model_MPV,0.0
+cat__model_ML55 AMG,0.0
+cat__model_MKZ Hybrid,0.0
+cat__model_Excursion,0.0
+cat__make_chevrolet,0.0
+cat__make_cadillac,0.0
+cat__model_M56,0.0
+cat__model_F-150 Heritage,0.0
+cat__model_F-150 SVT Lightning,0.0
+cat__model_M37,0.0
+cat__model_FR-S,0.0
+cat__model_Lumina,0.0
+cat__model_FX35,0.0
+cat__model_Legend,0.0
+cat__model_Lancer Sportback,0.0
+cat__model_Firebird,0.0
+cat__model_Fit,0.0
+cat__model_LX 470,0.0
+cat__model_LX 450,0.0
+cat__model_LS 600h L,0.0
+cat__model_Fleetwood,0.0
+cat__model_Continental GT Speed,0.0
+cat__model_RS 4,0.0
+cat__model_RS 6,0.0
+cat__model_TSX Sport Wagon,0.0
+cat__make_Mazda,0.0
+cat__model_Amanti,0.0
+cat__model_Amigo,0.0
+cat__model_Ascender,0.0
+cat__model_Aspen,0.0
+cat__model_Tiburon,0.0
+cat__model_Terraza,0.0
+cat__model_Taurus X,0.0
+cat__model_Aspire,0.0
+cat__model_Tahoe Hybrid,0.0
+cat__model_Astra,0.0
+cat__model_TLX,0.0
+cat__model_Continental,0.0
+cat__model_T100,0.0
+cat__model_Sunfire,0.0
+cat__model_Aura Hybrid,0.0
+cat__model_Spyder,0.0
+cat__model_Aurora,0.0
+cat__model_Spirit,0.0
+cat__model_Spark EV,0.0
+cat__model_Soul,0.0
+cat__model_Aztek,0.0
+cat__model_B-Series,0.0
+cat__model_B-Series Pickup,0.0
+cat__model_Tribute Hybrid,0.0
+cat__model_Truck,0.0
+cat__model_ActiveHybrid 5,0.0
+cat__model_Uplander,0.0
+cat__model_Z4 M,0.0
+cat__model_420-Class,0.0
+cat__model_4Runner,0.0
+cat__model_XK-Series,0.0
+cat__model_500,0.0
+cat__model_500-Class,0.0
+cat__model_XG300,0.0
+cat__model_500L,0.0
+cat__model_XC,0.0
+cat__model_6,0.0
+cat__model_750i,0.0
+cat__model_9-2X,0.0
+cat__model_Windstar Cargo,0.0
+cat__model_Windstar,0.0
+cat__model_Volt,0.0
+cat__model_Vitara,0.0
+cat__model_Villager,0.0
+cat__model_940,0.0
+cat__model_960,0.0
+cat__model_A5,0.0
+cat__model_Achieva,0.0
+cat__model_V50,0.0
+cat__model_V40,0.0
+cat__model_Sky,0.0
+cat__model_Silverado 3500 Classic,0.0
+cat__model_Silverado 2500,0.0
+cat__model_CX-7,0.0
+cat__model_S2000,0.0
+cat__model_Cabrio,0.0
+cat__model_S-Series,0.0
+cat__model_S-10 Blazer,0.0
+cat__model_S-10,0.0
+cat__model_Routan,0.0
+cat__model_Rondo,0.0
+cat__model_Rodeo Sport,0.0
+cat__model_Roadmaster,0.0
+cat__model_Camry Solara,0.0
+cat__model_Caprice,0.0
+cat__model_Caravan,0.0
+cat__model_Catera,0.0
+cat__model_Celica,0.0
+cat__make_gmc truck,0.0
+cat__model_Cirrus,0.0
+cat__model_Civic del Sol,0.0
+cat__model_Ram Cargo,0.0
+cat__model_Rainier,0.0
+cat__model_Rabbit,0.0
+cat__model_RX-8,0.0
+cat__model_Classic,0.0
+cat__model_RX 300,0.0
+cat__model_S40,0.0
+cat__model_S6,0.0
+cat__model_Silverado 1500HD,0.0
+cat__model_CTS-V Wagon,0.0
+cat__model_Silverado 1500 Hybrid,0.0
+cat__model_Silverado 1500 Classic,0.0
+cat__model_Sierra 2500HD Classic,0.0
+cat__model_Sierra 1500HD,0.0
+cat__model_Sierra 1500 Hybrid,0.0
+cat__model_Blackwood,0.0
+cat__model_Sidekick,0.0
+cat__model_Bravada,0.0
+cat__model_Breeze,0.0
+cat__model_C-Max Energi,0.0
+cat__make_Plymouth,0.0
+cat__model_Safari Cargo,0.0
+cat__model_Safari,0.0
+cat__model_C/K 2500 Series,0.0
+cat__model_SX4,0.0
+cat__model_C/K 3500 Series,0.0
+cat__model_SSR,0.0
+cat__model_C/V Tradesman,0.0
+cat__model_CTS Wagon,0.0
+cat__model_SC 400,0.0
+cat__model_SC 300,0.0
+cat__model_S90,0.0
+cat__model_S80,0.0
+cat__make_kia,0.0

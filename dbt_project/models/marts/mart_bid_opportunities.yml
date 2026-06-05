@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: mart_bid_opportunities
+
+    columns:
+      - name: make
+        tests:
+          - not_null
+
+      - name: vehicle_count
+        tests:
+          - not_null
+
+      - name: avg_gpu
+        tests:
+          - not_null
