@@ -119,11 +119,11 @@ real Strategy team would ask:
 
 - [x] Project scope and architecture defined
 - [x] Data sources identified and licensed
-- [ ] Synthetic lifecycle generator (in progress)
-- [ ] dbt project: staging and fact models
-- [ ] XGBoost bid-price baseline
-- [ ] Quantile regression for prediction intervals
-- [ ] SHAP-driven segmentation analysis
+- [x] Synthetic lifecycle generator (in progress)
+- [x] dbt project: staging and fact models
+- [x] XGBoost bid-price baseline
+- [x] Quantile regression for prediction intervals
+- [x] SHAP-driven segmentation analysis
 - [ ] A/B test designer module
 - [ ] Rollout simulator (Monte Carlo)
 - [ ] Tableau workbook (5 pages)
